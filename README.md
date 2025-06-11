@@ -8,4 +8,4 @@ We deal with sensitive customer data and take data privacy seriously.
 
 📍 **Based in San Francisco**
 
-Ping us if you’d like to connect or collaborate locally — we’re always open to good conversations and bold ideas.
+Ping us if you’d like to connect or collaborate locally.
