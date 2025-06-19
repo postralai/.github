@@ -1,6 +1,6 @@
-# 👋 Welcome to Postral
+# 👋 Welcome!
 
-We build AI agents for insurance brokers.
+Postral builds secure AI agents for insurance brokers.
 
 🔐 **Privacy-focused by design**
 
