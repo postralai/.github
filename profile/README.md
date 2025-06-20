@@ -1,6 +1,6 @@
 # 👋 Welcome!
 
-Postral builds secure AI agents for insurance brokers.
+Postral is building secure, autonomous AI agents for the insurance industry.
 
 🔐 **Privacy-focused by design**
 
